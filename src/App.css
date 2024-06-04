@@ -57,7 +57,7 @@ body {
     no-repeat 55% 0%;
   width: 100%;
   height: 100vh;
-  position: relative;
+  /* position: relative; */
   margin: auto;
   position: absolute;
   top: 0;
